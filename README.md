@@ -1,6 +1,8 @@
 # CodeClause__Fraud-Transaction-Prediction
 fraud Transaction Prediction
+#DEMO
 
+![Demo Video](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction/blob/main/demo.gif)
 Fraudulent-Transactions-Prediction
 Overview
 This repository contains a Fraud Detection project that focuses on predicting whether a financial transaction is fraudulent or not. The project utilizes machine learning models, specifically the Random Forest Classifier. The trained model is saved for future use, and a Streamlit app is provided for easy interaction with the model.
