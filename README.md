@@ -26,7 +26,7 @@ Python (version 3.6 or higher)
 Pip (package installer for Python)
 Clone the repository to your local machine:
 
-git clone https://github.com/hardikjp7/Fraudulent-Transactions-Prediction.git
+git clone https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction/tree/main
 Navigate to the project directory:
 
 cd Fraudulent-Transactions-Prediction
